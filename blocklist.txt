@@ -1,2 +1,3 @@
 ! Blocklist Pribadi
 ||1xlite-02725.pro^
+||shopee.co.id^
